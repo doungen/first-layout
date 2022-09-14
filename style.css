@@ -35,7 +35,7 @@ body {
     margin:  0; /*Set margin to 0 (distance)*/
  }
 
-/* Adjust for small devices */
+/* media-queries-for-standard-devices Adjust for small devices */
  @media only screen and (max-width: 600px) {
     .main-nav {
         font-size: 0.5em;
